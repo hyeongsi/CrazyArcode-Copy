@@ -52,28 +52,32 @@ winapi 학습
 <br>
 
 ## 기타 / 조작법
-<details>
-  <summary>조작법</summary>
-  <table>
-    <tr>
-      <td><b>/</b></td>
-      <td><b>이동</b></td>
-      <td><b>물풍선 설치</b></td>
-      <td><b>캐릭터 변경</b></td>
-    </tr>
-    <tr>
-      <td>1p</td>
-      <td>방향키</td>
-      <td>R Shift</td>
-      <td>L Click</td>
-    </tr>
-    <tr>
-      <td>2p</td>
-      <td>WSAD</td>
-      <td>L Shift</td>
-      <td>R Click</td>
-    </tr>
-  </table>
+<ui>
+  <li>
+    <table>
+      <tr>
+        <td><b>/</b></td>
+        <td><b>이동</b></td>
+        <td><b>물풍선 설치</b></td>
+        <td><b>캐릭터 변경</b></td>
+      </tr>
+      <tr>
+        <td>1p</td>
+        <td>방향키</td>
+        <td>R Shift</td>
+        <td>L Click</td>
+      </tr>
+      <tr>
+        <td>2p</td>
+        <td>WSAD</td>
+        <td>L Shift</td>
+        <td>R Click</td>
+      </tr>
+    </table>
+  </li>
+  <li></li>
+</ui>
+  
 </details>
 
 ```
